@@ -1,0 +1,1 @@
+# laboratorio-microsoft-copilot-e-openai
